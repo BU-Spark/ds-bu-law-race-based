@@ -35,6 +35,8 @@ The extracted data is reformated using code in Reformat section. It combines the
 1. `Team_1_Original_Names/Nov_22_CN_Names.csv`
 2. `Team_1_Original_Names/Nov_22_KR_Names.csv`
 
+They are in Google Drive data folder.
+
 ### English Names
 
 
