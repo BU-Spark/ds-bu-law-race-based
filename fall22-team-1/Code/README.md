@@ -17,12 +17,12 @@ It creates a file of the format "20XX_CN_KR_patent_grant_processed_names.csv"
 
 The files generated using this method are in the Data folder of Google Drive. They are:- 
 
-1. Team_1_Original_Names/2017_CN_KR_patent_grant_processed_names_full.csv
-2. Team_1_Original_Names/2018_CN_KR_patent_grant_processed_names_full.csv
-3. Team_1_Original_Names/2019_CN_KR_patent_grant_processed_names.csv
-4. Team_1_Original_Names/2020_CN_KR_patent_grant_processed_names.csv
-5. Team_1_Original_Names/2021_CN_KR_patent_grant_processed_names_part1.csv
-6. Team_1_Original_Names/2021_CN_KR_patent_grant_processed_names_part2.csv
+1. `Team_1_Original_Names/2017_CN_KR_patent_grant_processed_names_full.csv`
+2. `Team_1_Original_Names/2018_CN_KR_patent_grant_processed_names_full.csv`
+3. `Team_1_Original_Names/2019_CN_KR_patent_grant_processed_names.csv`
+4. `Team_1_Original_Names/2020_CN_KR_patent_grant_processed_names.csv`
+5. `Team_1_Original_Names/2021_CN_KR_patent_grant_processed_names_part1.csv`
+6. `Team_1_Original_Names/2021_CN_KR_patent_grant_processed_names_part2.csv`
 
 # Predicting Genders
 
@@ -40,16 +40,16 @@ The extracted data is reformated using code in Reformat section. It combines the
 
 The function "english_gender_CN" & "english_gender_KR" are used for english translated names gender prediciton. The dictionaries for this are in data folder. Source:- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MSEGSJ
 
-1. wgnd_2_0_name-gender_nocode.csv
-2. gender_dict_kr.csv
-3. gender_dict_cn.csv
+1. `wgnd_2_0_name-gender_nocode.csv`
+2. `gender_dict_kr.csv`
+3. `gender_dict_cn.csv`
 
 ### Chinese Names
 
 The class "Gender" & function "chinese_gender" are used for original chinese names gender prediciton. The files used for Chinese Gender prediction are in data folder. Source: -https://github.com/jaaack-wang/gender-predicator
 
-1. /gender_predicator_main_Naive_Bayes_Gender/ChineseLastNames.txt
-2. /gender_predicator_main_Naive_Bayes_Gender/dict4Gender.json
+1. `/gender_predicator_main_Naive_Bayes_Gender/ChineseLastNames.txt`
+2. `/gender_predicator_main_Naive_Bayes_Gender/dict4Gender.json`
 
 ### Korean Names
 
